@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="rigby10" size="1.000000 1.000000" />
+    <ImageTarget name="benson" size="1.000000 1.000000" />
+    <ImageTarget name="skips_1" size="1.000000 1.000000" />
+    <ImageTarget name="musculoso" size="1.000000 1.000000" />
+    <ImageTarget name="muerte" size="1.000000 1.000000" />
+    <ImageTarget name="mordecai" size="1.000000 1.005181" />
+  </Tracking>
+</QCARConfig>
